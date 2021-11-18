@@ -1,0 +1,6 @@
+---
+
+users:
+  - { name: Alice, comment: "alice@example.com", home: "/home/alice" }
+  - { name: Bob, comment: "bob@example.com", home: "/home/bob" }
+  - { name: Carol, comment: "carol@example.com", home: "/home/carol" }
